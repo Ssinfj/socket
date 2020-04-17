@@ -1,2 +1,3 @@
 # socket
-cli - server
+client - server
+
